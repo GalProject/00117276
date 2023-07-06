@@ -1,1 +1,6 @@
-numpy==1.24.0
+termcolor
+mock
+nose2
+psycopg2
+numpy
+pyyaml
